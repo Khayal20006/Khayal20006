@@ -18,7 +18,7 @@
 
 > [!TIP]
 > I build **secure REST APIs, clean data models and deployments that actually run.**
-> Currently open to **backend ** in Azerbaijan.
+> Currently open to **backend developer** in Azerbaijan.
 
 ## 👨‍💻 About me
 
