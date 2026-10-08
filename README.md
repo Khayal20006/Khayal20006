@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KHAYAL%20SHARIFOV&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18" alt="Khayal Sharifov header"/>
-
-<a href="https://github.com/Khayal20006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=Backend+Developer;Java+%26+Spring+Boot;Secure+REST+APIs;Clean+data+models;Deployments+that+actually+run" alt="Typing animation"/>
-</a>
+<img width="100%" src="assets/header.svg" alt="Khayal Sharifov header"/>
 
 <br/>
 
@@ -123,6 +119,6 @@ flowchart LR
 
 **📫 Let's build something together**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave"/>
+<img width="100%" src="assets/footer.svg" alt="Footer wave"/>
 
 </div>
