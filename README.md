@@ -18,7 +18,7 @@
 
 > [!TIP]
 > I build **secure REST APIs, clean data models and deployments that actually run.**
-> Currently open to **backend / data analytics internships** in Azerbaijan.
+> Currently open to **backend ** in Azerbaijan.
 
 ## 👨‍💻 About me
 
